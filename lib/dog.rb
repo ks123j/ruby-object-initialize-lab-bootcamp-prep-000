@@ -5,7 +5,7 @@ class Dog
   end
 
   def initialize(breed)
-    
+
 
   end
 
